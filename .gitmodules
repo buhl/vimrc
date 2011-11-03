@@ -1,0 +1,39 @@
+[submodule "bundle/vim-pathogen.git"]
+	path = bundle/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = http://github.com/scrooloose/nerdtree.git
+[submodule "bundle/autodate.vim.git"]
+	path = bundle/autodate.vim.git
+	url = https://github.com/vim-scripts/autodate.vim.git
+[submodule "bundle/snipMate.git"]
+	path = bundle/snipMate.git
+	url = https://github.com/vim-scripts/snipMate.git
+[submodule "bundle/openssl.vim.git"]
+	path = bundle/openssl.vim.git
+	url = https://github.com/vim-scripts/openssl.vim.git
+[submodule "bundle/jellybeans.vim.git"]
+	path = bundle/jellybeans.vim.git
+	url = https://github.com/vim-scripts/jellybeans.vim.git
+[submodule "bundle/html5.vim.git"]
+	path = bundle/html5.vim.git
+	url = https://github.com/vim-scripts/html5.vim.git
+[submodule "bundle/DrawIt.git"]
+	path = bundle/DrawIt.git
+	url = https://github.com/vim-scripts/DrawIt.git
+[submodule "bundle/ZenCoding.vim.git"]
+	path = bundle/ZenCoding.vim.git
+	url = https://github.com/vim-scripts/ZenCoding.vim.git
+[submodule "bundle/AutoComplPop.git"]
+	path = bundle/AutoComplPop.git
+	url = https://github.com/vim-scripts/AutoComplPop.git
+[submodule "bundle/taglist-plus.git"]
+	path = bundle/taglist-plus.git
+	url = https://github.com/vim-scripts/taglist-plus.git
+[submodule "bundle/jslint.vim.git"]
+	path = bundle/jslint.vim.git
+	url = https://github.com/vim-scripts/jslint.vim.git
+[submodule "bundle/vim-fugitive.git"]
+	path = bundle/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git

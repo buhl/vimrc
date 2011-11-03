@@ -1,0 +1,8 @@
+This is my vim configurations it uses pathogen[1]
+to handle plugins found here at vim-scripts[2]
+
+Feel free to steal of be inspired
+
+
+[1] https://github.com/tpope/vim-pathogen
+[2] http://vim-scripts.org/vim/scripts.html
