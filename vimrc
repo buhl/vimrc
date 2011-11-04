@@ -123,3 +123,9 @@ set sidescrolloff=10
 
 set formatoptions=rqo
 " }
+
+" if needed I can overwrite my general vim settings on a system basis here
+if filereadable("~/.vimrc.local")
+   source ~/.vimrc.local
+endif
+

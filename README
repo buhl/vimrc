@@ -3,6 +3,13 @@ to handle plugins found here at vim-scripts[2]
 
 Feel free to steal of be inspired
 
+Install
+clone the repos into ~/.vim
+then make links to the two config files
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
+
+
 
 [1] https://github.com/tpope/vim-pathogen
 [2] http://vim-scripts.org/vim/scripts.html
