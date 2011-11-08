@@ -9,7 +9,12 @@ filetype plugin indent on
 set smartindent
 set autoindent
 
-colorscheme jellybeans
+"{{{ Colorscheme
+
+let g:solarized_termcolors=256
+colorscheme solarized
+set background=dark
+"}}}
 
 "{ Useability/misc
 " show (partial) command in status line
