@@ -58,3 +58,7 @@
 	path = bundle/vim-colors-solarized.git
 	url = git://github.com/altercation/vim-colors-solarized.git
   ignore = untracked
+[submodule "bundle/vim-node.js.git"]
+	path = bundle/vim-node.js.git
+	url = git://github.com/mmalecki/vim-node.js.git
+  ignore = untracked
