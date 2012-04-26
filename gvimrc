@@ -9,6 +9,6 @@ set mousemodel=popup_setpos
 "}
 
 " if needed I can overwrite my general vim settings on a system basis here
-if filereadable("~/.gvimrc.local")
+if filereadable($HOME."/.gvimrc.local")
   source ~/.gvimrc.local
 endif

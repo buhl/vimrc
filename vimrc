@@ -10,9 +10,6 @@ set smartindent
 set autoindent
 
 "{{{ Colorscheme
-
-let g:solarized_termcolors=256
-colorscheme solarized
 set background=dark
 "}}}
 
@@ -133,7 +130,7 @@ set formatoptions=rqo
 "plugins
 
 " if needed I can overwrite my general vim settings on a system basis here
-if filereadable("~/.vimrc.local")
+if filereadable($HOME."/.vimrc.local")
    source ~/.vimrc.local
 endif
 
