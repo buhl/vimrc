@@ -67,3 +67,6 @@
 [submodule "bundle/molokai.git"]
 	path = bundle/molokai.git
 	url = https://github.com/tomasr/molokai.git
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = git://github.com/juvenn/mustache.vim.git

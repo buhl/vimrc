@@ -93,12 +93,14 @@ set foldmarker={,}
 set foldopen=block,hor,mark,percent,quickfix,search,tag,undo
 "}
 "{ Backups
-"write a backup before writing to a file
-set writebackup
+"place to put Backups
+set backupdir=~/.vim/backups//,/var/tmp//,/tmp//,.
+set directory=~/.vim/backups//,/var/tmp//,/tmp//,.
 "wite content on file if its been modified
 set autowriteall
-"place to put Backups
-set backupdir=~/.vim/backups
+"write a backup before writing to a file
+set writebackup
+
 "}
 "{ file formats
 " I dont like wintendo
