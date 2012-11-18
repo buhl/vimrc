@@ -70,6 +70,30 @@
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = git://github.com/juvenn/mustache.vim.git
-[submodule "bundle/phpvim.git"]
-	path = bundle/phpvim.git
-	url = https://github.com/vim-scripts/phpvim.git
+[submodule "bundle/PHP-Indenting-for-VIm.git"]
+	path = bundle/PHP-Indenting-for-VIm.git
+	url = https://github.com/2072/PHP-Indenting-for-VIm.git
+[submodule "bundle/phpcomplete.vim.git"]
+	path = bundle/phpcomplete.vim.git
+	url = https://github.com/shawncplus/phpcomplete.vim.git
+[submodule "bundle/supertab.git"]
+	path = bundle/supertab.git
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/nerdcommenter.git"]
+	path = bundle/nerdcommenter.git
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/delimitMate.git"]
+	path = bundle/delimitMate.git
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/checksyntax_vim.git"]
+	path = bundle/checksyntax_vim.git
+	url = https://github.com/tomtom/checksyntax_vim.git
+[submodule "bundle/vim-surround.git"]
+	path = bundle/vim-surround.git
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar
+[submodule "bundle/vim-easytags.git"]
+	path = bundle/vim-easytags.git
+	url = https://github.com/xolox/vim-easytags.git
