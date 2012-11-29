@@ -97,3 +97,12 @@
 [submodule "bundle/vim-easytags.git"]
 	path = bundle/vim-easytags.git
 	url = https://github.com/xolox/vim-easytags.git
+[submodule "bundle/blade.vim"]
+	path = bundle/blade.vim
+	url = https://github.com/johnhamelink/blade.vim
+[submodule "bundle/vim-laravel-snippets.git"]
+	path = bundle/vim-laravel-snippets.git
+	url = https://github.com/markwu/vim-laravel-snippets.git
+[submodule "bundle/snipmate-snippets.git"]
+	path = bundle/snipmate-snippets.git
+	url = https://github.com/honza/snipmate-snippets.git
